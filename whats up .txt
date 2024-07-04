@@ -3,3 +3,5 @@ whats up
 1.open WhatsApp
 
 2.seeing the contacts
+
+3.last seen hiding
